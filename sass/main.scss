@@ -33,6 +33,10 @@ $color-primary-dark: #332f2f;
     max-width: 300px;
     padding: 2em;
     box-shadow: 0 20px 30px -20px rgba(0, 0, 0, .4);
+
+    &__h2 {
+        font-size: 32px;
+    }
 }
 
 /* BEM Style */
