@@ -9,6 +9,7 @@
   "author": "Kevin",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.6.3",
     "node-sass": "^8.0.0"
   }
 }
